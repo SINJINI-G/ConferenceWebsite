@@ -1,0 +1,13 @@
+a {
+    color: #2DBFF8;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.nav-item {
+    margin-right: 2rem;
+    margin-left: 2rem;
+    text-align: center;
+}
